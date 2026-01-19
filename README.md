@@ -142,8 +142,7 @@ A complete ecosystem: mobile app, backend services, AI module, and data-access l
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: **linkedin.com/in/farman20ali**  
-- 🐙 GitHub: **github.com/farman20ali**  
-- ✉️ Email: **farman20ali@gmail.com**  
+- 🐙 GitHub: **github.com/farman20ali** 
 - ☕ Support: **buymeacoffee.com/alienhub**  
 
 ---
