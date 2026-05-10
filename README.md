@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Role-Assistant%20IT%20Specialist%20%40%20Bank%20Al%20Habib-7CFC90?style=for-the-badge" alt="Current Role: Assistant IT Specialist at Bank Al Habib" />
+  <img src="https://img.shields.io/badge/Current%20Role-Bank%20Al%20Habib%20(Assistant%20IT%20Specialist)-7CFC90?style=for-the-badge" alt="Current Role: Bank Al Habib (Assistant IT Specialist)" />
 </p>
 
 <!-- ===========================
