@@ -2,7 +2,7 @@
       TOP BANNER
 =========================== -->
 <p align="center">
-  <img src="assets/banner.png" alt="Alien Banner" width="100%" />
+  <img src="assets/banner.png" alt="Farman Ali Ujjan Banner" width="100%" />
 </p>
 
 <!-- ===========================
@@ -11,11 +11,11 @@
 <h1 align="center">👋 Hey, I’m <span style="color:#8ab4f8">Farman Ali Ujjan</span></h1>
 
 <p align="center">
-  Software Engineer • FinTech • Distributed Systems • Backend
+  Software Engineer • Distributed Systems • FinTech Infrastructure • Platform Engineering
 </p>
 
 <p align="center">
-  Open to Backend / Software Engineer roles • Global opportunities • Visa sponsorship
+  Designing reliable, low-latency backend systems for financial platforms.
 </p>
 
 <p align="center">
@@ -34,7 +34,6 @@
   </a>
   <a href="https://farman20ali.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-0B5FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
   </a>
 </p>
 
@@ -57,17 +56,18 @@
 =========================== -->
 ## 🚀 About Me
 
-Software Engineer with **3+ years in FinTech and distributed backend systems**, focused on high-throughput, low-latency services.  
-I build Java microservices (Quarkus, Spring Boot), event-driven architectures (Kafka), and resilient platforms serving **1M+ users**.
+Software Engineer with **3+ years in FinTech and distributed backend systems**, focused on high-throughput, low-latency services.
 
-Core focus: **distributed systems**, **payments**, and **observability**.
+I build Java microservices, event-driven systems, and resilient platforms for production environments where correctness, observability, and performance matter.
+
+**Core focus:** distributed systems, payments, observability, and platform engineering.
 
 **Tech keywords:** Java · Quarkus · Spring Boot · Kafka · PostgreSQL · Redis · Docker · ELK
 
-- 🏗️ Design and ship **low-latency microservices** (Java • Quarkus • Spring Boot)  
-- ⚡ Event-driven systems with **Kafka**, **Redis**, **PostgreSQL**, **ELK**  
-- 🎯 Focus on **clean architecture**, **observability**, and **scalability**  
-- 🚀 Build open-source developer tools and automation  
+- 🏗️ Design and ship **low-latency microservices** using Java, Quarkus, and Spring Boot
+- ⚡ Build event-driven systems with **Kafka**, **Redis**, **PostgreSQL**, and **ELK**
+- 🎯 Focus on **clean architecture**, **observability**, and **scalability**
+- 🚀 Build open-source developer tools and automation
 
 ---
 
@@ -113,8 +113,8 @@ Core focus: **distributed systems**, **payments**, and **observability**.
 =========================== -->
 ## ⭐ Highlighted Projects
 
-### 🚨 Accident Reporting System — End-to-End System Designed & Developed by Me  
-A complete ecosystem: mobile app, backend services, AI module, and data-access layer.
+### 🚨 Accident Reporting System — End-to-End System Designed & Developed by Me
+A complete ecosystem covering mobile app, backend services, AI module, and data access.
 
 #### 🔗 Supporting Repositories (Modules I Built)
 
@@ -131,10 +131,10 @@ A complete ecosystem: mobile app, backend services, AI module, and data-access l
 
 ### 🛠️ Network Tools (Public & Maintained)
 
-- **NetCheck** — Lightweight network connectivity diagnostic tool (Snap Store).  
+- **NetCheck** — Cross-platform network connectivity diagnostic tool for quick troubleshooting (Available on SnapStore).  
   ➜ https://github.com/farman20ali/network_access_check
 
-- **kport** — Cross-platform CLI for port inspection & debugging (Docker-aware).  
+- **kport** — Docker-aware CLI for port inspection and debugging.  
   ➜ https://github.com/farman20ali/port-killer
 
 ---
@@ -144,9 +144,9 @@ A complete ecosystem: mobile app, backend services, AI module, and data-access l
 =========================== -->
 ## 🎯 Current Goals
 
-- Build more **developer tools** & open-source utilities  
-- Strengthen global-scale leadership capabilities  
-- Launch products powered by **AI + cloud-native architecture**  
+- Build more **developer tools** and open-source utilities
+- Strengthen **systems design** and **platform engineering** depth
+- Launch products powered by **AI + cloud-native architecture**
 
 ---
 
@@ -155,19 +155,12 @@ A complete ecosystem: mobile app, backend services, AI module, and data-access l
 =========================== -->
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **linkedin.com/in/farman20ali**  
-- 🐙 GitHub: **github.com/farman20ali**  
-- 🌐 Portfolio: **farman20ali.github.io/portfolio**  
+- 💼 LinkedIn: **linkedin.com/in/farman20ali**
+- 🐙 GitHub: **github.com/farman20ali**
+- 🌐 Portfolio: **farman20ali.github.io/portfolio**
 
 ---
 
-<!-- ===========================
-      FUN
-=========================== -->
-## 🎨 Fun Side
-
-I build creative tools, keep the Alien identity, watch films, and play chess.
-
----
-
-<p align="center">✨ Let’s create, inspire, and build the future—together. ✨</p>
+<p align="center">
+  <sub>Building systems that stay reliable under pressure.</sub>
+</p>
