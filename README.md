@@ -132,10 +132,10 @@ A complete ecosystem covering mobile app, backend services, AI module, and data 
 ### 🛠️ Network Tools (Public & Maintained)
 
 - **NetCheck** — Cross-platform network connectivity diagnostic tool for quick troubleshooting (Available on SnapStore).  
-  ➜ https://github.com/farman20ali/network_access_check
+  ➜ https://github.com/farman20ali/netcheck
 
 - **kport** — Docker-aware CLI for port inspection and debugging.  
-  ➜ https://github.com/farman20ali/port-killer
+  ➜ https://github.com/farman20ali/kport
 
 ---
 
